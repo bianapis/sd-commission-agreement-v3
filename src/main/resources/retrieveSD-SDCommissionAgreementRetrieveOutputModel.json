@@ -1,0 +1,39 @@
+{
+  "commissionAgreementRetrieveActionResponse" : "commissionAgreementRetrieveActionResponse",
+  "commissionAgreementRetrieveActionRecord" : {
+    "commissionAgreementPerformanceAnalysis" : {
+      "performanceAnalysisReport" : {},
+      "performanceAnalysisReportType" : "performanceAnalysisReportType",
+      "performanceAnalysisResult" : "performanceAnalysisResult",
+      "performanceAnalysisReference" : "761670"
+    },
+    "commissionAgreementActivityAnalysis" : {
+      "activityAnalysisResult" : "activityAnalysisResult",
+      "activityAnalysisReportType" : "activityAnalysisReportType",
+      "activityAnalysisReport" : {},
+      "activityAnalysisReference" : "730230"
+    },
+    "controlRecordPortfolioAnalysis" : {
+      "controlRecordPortfolioAnalysisResult" : "controlRecordPortfolioAnalysisResult",
+      "controlRecordPortfolioAnalysisReportType" : "controlRecordPortfolioAnalysisReportType",
+      "controlRecordAnalysisReport" : {},
+      "controlRecordPortfolioAnalysisReference" : "739764"
+    }
+  },
+  "commissionAgreementOfferedService" : {
+    "commissionAgreementServiceRecord" : {
+      "commissionAgreementServicePoliciesandGuidelines" : {
+        "commissionAgreementServicePricingandTerms" : "commissionAgreementServicePricingandTerms",
+        "commissionAgreementServiceEligibility" : "commissionAgreementServiceEligibility",
+        "commissionAgreementServiceIntendedUses" : "commissionAgreementServiceIntendedUses"
+      },
+      "commissionAgreementServiceType" : "commissionAgreementServiceType",
+      "commissionAgreementServiceDescription" : "commissionAgreementServiceDescription",
+      "commissionAgreementServiceSchedule" : "commissionAgreementServiceSchedule",
+      "commissionAgreementServiceVersion" : "commissionAgreementServiceVersion"
+    },
+    "commissionAgreementServiceReference" : "776158"
+  },
+  "commissionAgreementRetrieveActionTaskReference" : "SRATR795161",
+  "commissionAgreementRetrieveActionTaskRecord" : {}
+}

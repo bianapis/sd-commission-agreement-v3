@@ -1,0 +1,11 @@
+{
+  "employeeCommissionAgreementGrantActionTaskReference" : "ECAGATR752495",
+  "grantRequestResponseRecord" : {
+    "grantPermissionDetails" : "grantPermissionDetails"
+  },
+  "employeeCommissionAgreementRequest" : "employeeCommissionAgreementRequest",
+  "employeeCommissionAgreementGrantActionTaskRecord" : {},
+  "employeeCommissionAgreementStatus" : "employeeCommissionAgreementStatus",
+  "grantRequestRecordReference" : "GRRR796865",
+  "employeeCommissionAgreementSchedule" : "employeeCommissionAgreementSchedule"
+}

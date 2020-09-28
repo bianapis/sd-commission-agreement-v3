@@ -1,0 +1,9 @@
+{
+  "employeeCommissionAgreementInitiateActionReference" : "ECAIAR713667",
+  "employeeCommissionAgreementRequest" : "employeeCommissionAgreementRequest",
+  "employeeCommissionAgreementInstanceReference" : "ECAIR701644",
+  "employeeCommissionAgreementInstanceStatus" : "employeeCommissionAgreementInstanceStatus",
+  "employeeCommissionAgreementStatus" : "employeeCommissionAgreementStatus",
+  "employeeCommissionAgreementInitiateActionRecord" : {},
+  "employeeCommissionAgreementSchedule" : "employeeCommissionAgreementSchedule"
+}

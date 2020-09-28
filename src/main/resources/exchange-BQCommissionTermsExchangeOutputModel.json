@@ -1,0 +1,12 @@
+{
+  "commissionTermsExchangeActionTaskRecord" : {},
+  "commissionTermsExchangeActionTaskReference" : "CTEATR797148",
+  "commissionTermsTermSchedule" : "commissionTermsTermSchedule",
+  "commissionTermsServiceDescription" : "commissionTermsServiceDescription",
+  "commissionTermsServiceType" : "commissionTermsServiceType",
+  "commissionTermsPreconditions" : "commissionTermsPreconditions",
+  "commissionTermsServiceInputsandOuputs" : "commissionTermsServiceInputsandOuputs",
+  "commissionTermsExchangeActionResponse" : "commissionTermsExchangeActionResponse",
+  "commissionTermsInstanceStatus" : "commissionTermsInstanceStatus",
+  "commissionTermsServiceWorkProduct" : "commissionTermsServiceWorkProduct"
+}

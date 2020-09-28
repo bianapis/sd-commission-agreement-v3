@@ -1,0 +1,12 @@
+{
+  "commissionTermsControlActionResponse" : "commissionTermsControlActionResponse",
+  "commissionTermsControlActionTaskReference" : "CTCATR778467",
+  "commissionTermsTermSchedule" : "commissionTermsTermSchedule",
+  "commissionTermsServiceDescription" : "commissionTermsServiceDescription",
+  "commissionTermsServiceType" : "commissionTermsServiceType",
+  "commissionTermsPreconditions" : "commissionTermsPreconditions",
+  "commissionTermsServiceInputsandOuputs" : "commissionTermsServiceInputsandOuputs",
+  "commissionTermsControlActionTaskRecord" : {},
+  "commissionTermsInstanceStatus" : "commissionTermsInstanceStatus",
+  "commissionTermsServiceWorkProduct" : "commissionTermsServiceWorkProduct"
+}

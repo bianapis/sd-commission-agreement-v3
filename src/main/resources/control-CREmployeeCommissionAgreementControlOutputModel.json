@@ -1,0 +1,8 @@
+{
+  "employeeCommissionAgreementControlActionTaskReference" : "ECACATR789704",
+  "employeeCommissionAgreementRequest" : "employeeCommissionAgreementRequest",
+  "employeeCommissionAgreementControlActionTaskRecord" : {},
+  "employeeCommissionAgreementControlActionResponse" : "employeeCommissionAgreementControlActionResponse",
+  "employeeCommissionAgreementStatus" : "employeeCommissionAgreementStatus",
+  "employeeCommissionAgreementSchedule" : "employeeCommissionAgreementSchedule"
+}

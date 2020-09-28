@@ -1,0 +1,8 @@
+{
+  "employeeCommissionAgreementExchangeActionTaskReference" : "ECAEATR722926",
+  "employeeCommissionAgreementExchangeActionTaskRecord" : {},
+  "employeeCommissionAgreementRequest" : "employeeCommissionAgreementRequest",
+  "employeeCommissionAgreementExchangeActionResponse" : "employeeCommissionAgreementExchangeActionResponse",
+  "employeeCommissionAgreementStatus" : "employeeCommissionAgreementStatus",
+  "employeeCommissionAgreementSchedule" : "employeeCommissionAgreementSchedule"
+}

@@ -1,0 +1,29 @@
+{
+  "employeeCommissionAgreementType" : "employeeCommissionAgreementType",
+  "employeeCommissionAgreementObligation" : "employeeCommissionAgreementObligation",
+  "employeeCommissionAgreementInstanceReportRecord" : {
+    "employeeCommissionAgreementInstanceReportType" : "employeeCommissionAgreementInstanceReportType",
+    "employeeCommissionAgreementInstanceReport" : {},
+    "employeeCommissionAgreementInstanceReportData" : "employeeCommissionAgreementInstanceReportData"
+  },
+  "employeeCommissionAgreementRetrieveActionResponse" : "employeeCommissionAgreementRetrieveActionResponse",
+  "employeeCommissionAgreementRequest" : "employeeCommissionAgreementRequest",
+  "employeeCommissionAgreementJurisdiction" : "employeeCommissionAgreementJurisdiction",
+  "employeeCommissionAgreementParameterType" : "employeeCommissionAgreementParameterType",
+  "employeeCommissionAgreementCustomerReference" : "ECACR795622",
+  "employeeCommissionAgreementStatus" : "employeeCommissionAgreementStatus",
+  "employeeCommissionAgreementRegulationReference" : "ECARR779293",
+  "employeeCommissionAgreementRetrieveActionTaskReference" : "ECARATR706266",
+  "employeeCommissionAgreementReference" : "ECAR794482",
+  "employeeCommissionAgreementEntitlement" : "employeeCommissionAgreementEntitlement",
+  "employeeCommissionAgreementSelectedOption" : "employeeCommissionAgreementSelectedOption",
+  "employeeCommissionAgreementRegulationType" : "employeeCommissionAgreementRegulationType",
+  "employeeCommissionAgreementAccountReference" : "ECAAR756588",
+  "employeeCommissionAgreementInstanceAnalysis" : {
+    "employeeCommissionAgreementInstanceAnalysisReportType" : "employeeCommissionAgreementInstanceAnalysisReportType",
+    "employeeCommissionAgreementInstanceAnalysisReport" : {},
+    "employeeCommissionAgreementInstanceAnalysisData" : "employeeCommissionAgreementInstanceAnalysisData"
+  },
+  "employeeCommissionAgreementRetrieveActionTaskRecord" : {},
+  "employeeCommissionAgreementSchedule" : "employeeCommissionAgreementSchedule"
+}

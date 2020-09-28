@@ -1,0 +1,23 @@
+{
+  "commissionTermsRetrieveActionTaskReference" : "CTRATR718198",
+  "commissionTermsTermSchedule" : "commissionTermsTermSchedule",
+  "commissionTermsServiceDescription" : "commissionTermsServiceDescription",
+  "commissionTermsInstanceReport" : {
+    "commissionTermsInstanceReportParameters" : "commissionTermsInstanceReportParameters",
+    "commissionTermsInstanceReportType" : "commissionTermsInstanceReportType",
+    "commissionTermsInstanceReport" : {},
+    "commissionTermsInstanceReportRecord" : {}
+  },
+  "commissionTermsServiceType" : "commissionTermsServiceType",
+  "commissionTermsPreconditions" : "commissionTermsPreconditions",
+  "commissionTermsRetrieveActionTaskRecord" : {},
+  "commissionTermsServiceInputsandOuputs" : "commissionTermsServiceInputsandOuputs",
+  "commissionTermsRetrieveActionResponse" : "commissionTermsRetrieveActionResponse",
+  "commissionTermsServiceWorkProduct" : "commissionTermsServiceWorkProduct",
+  "commissionTermsInstanceAnalysis" : {
+    "commissionTermsInstanceAnalysisRecord" : {},
+    "commissionTermsInstanceAnalysisReportType" : "commissionTermsInstanceAnalysisReportType",
+    "commissionTermsInstanceAnalysisParameters" : "commissionTermsInstanceAnalysisParameters",
+    "commissionTermsInstanceAnalysisReport" : {}
+  }
+}

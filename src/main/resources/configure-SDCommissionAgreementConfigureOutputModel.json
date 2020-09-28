@@ -1,0 +1,21 @@
+{
+  "commissionAgreementConfigurationActionTaskReference" : "SCATR765419",
+  "commissionAgreementServiceConfigurationRecord" : {
+    "commissionAgreementServiceAgreement" : {
+      "commissionAgreementServiceUserReference" : "733696",
+      "commissionAgreementServiceAgreementReference" : "721156",
+      "commissionAgreementServiceAgreementTermsandConditions" : "commissionAgreementServiceAgreementTermsandConditions"
+    },
+    "commissionAgreementServiceConfigurationSettingDescription" : "commissionAgreementServiceConfigurationSettingDescription",
+    "commissionAgreementServiceConfigurationSetup" : {
+      "commissionAgreementServiceConfigurationParameter" : "commissionAgreementServiceConfigurationParameter"
+    },
+    "commissionAgreementServiceStatus" : "commissionAgreementServiceStatus",
+    "commissionAgreementServiceSubscription" : {
+      "commissionAgreementServiceSubscriberReference" : "756221",
+      "commissionAgreementServiceSubscriberAccessProfile" : "commissionAgreementServiceSubscriberAccessProfile"
+    }
+  },
+  "commissionAgreementServicingSessionStatus" : "commissionAgreementServicingSessionStatus",
+  "commissionAgreementConfigurationActionTaskRecord" : {}
+}

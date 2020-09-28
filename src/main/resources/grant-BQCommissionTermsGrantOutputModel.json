@@ -1,0 +1,14 @@
+{
+  "commissionTermsGrantActionTaskRecord" : {},
+  "commissionTermsGrantActionTaskReference" : "CTGATR792947",
+  "grantRequestResponseRecord" : {
+    "grantPermissionDetails" : "grantPermissionDetails"
+  },
+  "commissionTermsTermSchedule" : "commissionTermsTermSchedule",
+  "commissionTermsServiceDescription" : "commissionTermsServiceDescription",
+  "commissionTermsServiceType" : "commissionTermsServiceType",
+  "commissionTermsPreconditions" : "commissionTermsPreconditions",
+  "commissionTermsServiceInputsandOuputs" : "commissionTermsServiceInputsandOuputs",
+  "grantRequestRecordReference" : "GRRR727687",
+  "commissionTermsServiceWorkProduct" : "commissionTermsServiceWorkProduct"
+}

@@ -1,0 +1,12 @@
+{
+  "commissionTermsTermSchedule" : "commissionTermsTermSchedule",
+  "commissionTermsServiceDescription" : "commissionTermsServiceDescription",
+  "commissionTermsInitiateActionReference" : "CTIAR778344",
+  "commissionTermsServiceType" : "commissionTermsServiceType",
+  "commissionTermsInitiateActionRecord" : {},
+  "commissionTermsPreconditions" : "commissionTermsPreconditions",
+  "commissionTermsServiceInputsandOuputs" : "commissionTermsServiceInputsandOuputs",
+  "commissionTermsInstanceReference" : "CTIR766910",
+  "commissionTermsInstanceStatus" : "commissionTermsInstanceStatus",
+  "commissionTermsServiceWorkProduct" : "commissionTermsServiceWorkProduct"
+}
